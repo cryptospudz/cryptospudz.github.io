@@ -1,4 +1,6 @@
 main:
+  - title: "Traits"
+    url: /traits/
   - title: "Tags"
     url: /tags/
   - title: "About"
