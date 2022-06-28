@@ -1,4 +1,4 @@
-{% include attr-list %}
+{% include_cached attr-list %}
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[1].size > tags_max %}
@@ -6,7 +6,7 @@
   {% endif %}
 {% endfor %}
 <section id="trait-type">
-  <h1>{{ attribute | capitalize}} traits</h1>
+  <h2>{{ attribute | capitalize}} traits</h2>
   <ul class="taxonomy__index">
     {% for i in (1..tags_max) reversed %}
       {% for tag in site.tags %}
