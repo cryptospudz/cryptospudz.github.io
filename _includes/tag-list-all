@@ -11,9 +11,7 @@
       {% for tag in site.tags %}
         {% if tag[1].size == i %}
           <li>
-            <a href="/tags/{{ tag[0] | slugify }}/#trait">
-              <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
-            </a>
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
           </li>
         {% endif %}
       {% endfor %}
