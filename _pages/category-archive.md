@@ -1,7 +1,7 @@
 ---
-title: "Categories"
+title: "Spudz"
 layout: categories
-permalink: /categories/
+permalink: /spudz/
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
