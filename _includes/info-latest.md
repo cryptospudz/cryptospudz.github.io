@@ -1,0 +1,2 @@
+## Initial sale is imminent!
+Crypto Spudz are due to go on sale imminently, watch this space to make sure you don't miss out! Find out more about the [initial sale](/about/#how-does-the-initial-sale-work) and the [reveal process](/about/#whats-the-reveal-process).

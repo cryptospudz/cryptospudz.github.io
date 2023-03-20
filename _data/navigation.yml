@@ -1,0 +1,9 @@
+main:
+#  - title: "Spudz"
+#    url: /spudz/
+#  - title: "Gallery"
+#    url: /gallery/1
+#  - title: "Traits"
+#    url: /traits/
+  - title: "About"
+    url: /about/

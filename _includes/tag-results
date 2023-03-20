@@ -1,0 +1,11 @@
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<section id="trait" class="taxonomy__section">
+  {% if page.tag %}
+  <h2 class="archive__subtitle"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ page.tag }} {{ tag[0] }}</h2>
+  {% endif %}
+  <div class="entries-{{ entries_layout }}">
+  {% for post in site.tags[page.tag] %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+  </div>
+</section>
