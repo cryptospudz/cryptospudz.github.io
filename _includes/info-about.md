@@ -1,24 +1,24 @@
 # Welcome!
 Thanks for dropping by! What exactly is going on here I hear you ask? Well you've come to the right place! Read on...
 
-### What are Crypto Spudz?
-Crypto Spudz is an NFT collection of 9,999 unique computer generated characters. Each character has been created from a random selection of attributes, resulting in a unique piece of digital art, each with its own collection of traits that describe it. Proof of ownership is stored on the Polygon blockchain and the characters are available to trade on the digital marketplace [OpenSea](https://opensea.io/collection/crypto-spudz).
+### What are CryptoSpudz?
+CryptoSpudz is an NFT collection of 9,999 unique computer generated characters. Each character has been created from a random selection of attributes, resulting in a unique piece of digital art, each with its own collection of traits that describe it. Proof of ownership is stored on the Polygon blockchain and the characters are available to trade on the digital marketplace [OpenSea](https://opensea.io/collection/crypto-spudz).
 
 ### Oh NFTs! I know about them, they're all the rage. Are you like that Lame Ape Boat Gang thing? 
-Crypto Spudz take their inspiration from a number of existing NFT collections. The most obvious one being the now legendary [Crypto Punks](https://www.larvalabs.com/cryptopunks) but also from [Weird Whales](https://weirdwhalesnft.com/) by the young [Benyamin Ahmed](https://twitter.com/ObiWanBenoni) and from some lesser known but equally influential NFT projects like [BitBirds / NFT Birds](https://www.bitbirds.io/) and [Tiny Dinos](https://linktr.ee/tinydinosnft).
+CryptoSpudz take their inspiration from a number of existing NFT collections. The most obvious one being the now legendary [Crypto Punks](https://www.larvalabs.com/cryptopunks) but also from [Weird Whales](https://weirdwhalesnft.com/) by the young [Benyamin Ahmed](https://twitter.com/ObiWanBenoni) and from some lesser known but equally influential NFT projects like [BitBirds / NFT Birds](https://www.bitbirds.io/) and [Tiny Dinos](https://linktr.ee/tinydinosnft).
 
-You may even see a nod to some of these projects in the Crypto Spudz collection...
+You may even see a nod to some of these projects in the CryptoSpudz collection...
 
 ### Cool... so who are you?
-I'm the Crypto Spud maker! Just a regular spud with an interest in coding, blockchain and art in both digital and non-digital forms. What started as a simple idea to bring these interests together has snowballed into a full on passion project which has culminated in the birth of the Crypto Spudz! 
+I'm the CryptoSpud maker! Just a regular spud with an interest in coding, blockchain and art in both digital and non-digital forms. What started as a simple idea to bring these interests together has snowballed into a full on passion project which has culminated in the birth of the CryptoSpudz! 
 
 ### Nice! OK, tell me some more about traits.
-Like pretty much all existing NFT collections, Crypto Spudz have a huge number of traits which describe what a spud is composed of. They represent the individual parts that make up the entire image, adding meaning and depth to the character and bringing the spud to life, which in turn makes for a much richer, interesting and fun collection!
+Like pretty much all existing NFT collections, CryptoSpudz have a huge number of traits which describe what a spud is composed of. They represent the individual parts that make up the entire image, adding meaning and depth to the character and bringing the spud to life, which in turn makes for a much richer, interesting and fun collection!
 
 ### Can I get an example?
 Sure! Let's take a look at me -
 
-![Crypto Spud Maker](/assets/images/crypto-spud-maker.png)
+![CryptoSpud Maker](/assets/images/crypto-spud-maker.png)
 
 Here are my spud's traits -
 
@@ -48,7 +48,9 @@ Traits vary in rarity and there is a whole range across the entire collection of
 Rarity will become apparent once more spudz have been revealed but just to whet your appetite, the category 'spud type' can be one of 'spud' (representing male spudz), 'spudette' (representing female spudz), 'zombie' or 'alien'. There are only 95 zombies and 20 aliens in the entire collection!
 
 ### How does the initial sale work?
-All spudz will come pre-minted and when they are first put up for sale on OpenSea, they will have a generic image with all traits hidden. This means that initially the collection works a bit like a lottery ticket in that you don't know what you're going to get. This prevents early birds from snapping up the more valuable spudz, giving everybody an equal and random chance of owning something really rare. Of course you can buy more spudz to increase your chances of getting a rare spud but don't be greedy as there will be limits in place!
+All spudz will come pre-minted and when they are first put up for sale on OpenSea, they will have a generic image with all traits hidden. This means that initially the collection works a bit like a lottery ticket in that you don't know what you're going to get. This prevents early birds from snapping up the more valuable spudz, giving everybody an equal and random chance of owning something really rare. Of course you can buy more spudz to increase your chances of getting a rare one but don't be greedy as there will be limits in place! Initially the maximum number of spudz that you'll be able to purchase will be 10 but this may change after a period of time. 
+
+Spudz will range in price for the initial sale. They will start from as low as 0.0001 ETH and increment in steps of 0.00001 ETH for every spud going through the collection. This means if you're quick you'll be able to pick up a spud at a rock bottom price!
 
 ### What's the reveal process?
 Once a spud has been sold, the image and traits of that spud will be revealed. There will be multiple 'reveal days' over a period of time where all spudz sold up until that date will be revealed. The number and timing of each reveal day will vary depending on how many sales have been made and how long it's been since the last reveal day. However they will be kept as regular as possible so people don't have to wait too long to find out what they own. Remember that only spudz that have been sold will be revealed and unsold spudz will still have a generic image. 

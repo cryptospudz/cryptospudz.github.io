@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Crypto Spudz"
+title: "CryptoSpudz"
 email:
-description: Crypto Spudz - NFT potato collectables
+description: CryptoSpudz - NFT potato collectables
 twitter_username: CryptoSpudMaker
 github_username: cryptospudz
 minimal_mistakes_skin: default
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Crypto Spud Maker"
+  name   : "CryptoSpud Maker"
   avatar : "/assets/images/crypto-spud-maker.png"
-  bio    : "I make Crypto Spudz!"
+  bio    : "I make CryptoSpudz!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Crypto Spudz"
+title: "CryptoSpudz"
 author_profile: true
 header:
   overlay_image: /assets/images/cover.jpg
