@@ -18,7 +18,7 @@ Like pretty much all existing NFT collections, CryptoSpudz have a huge number of
 ### Can I get an example?
 Sure! Let's take a look at me -
 
-![CryptoSpud Maker](/assets/images/crypto-spud-maker.png)
+![CryptoSpud Maker](/assets/images/crypto-spud-maker.png){: .align-center}
 
 Here are my spud's traits -
 
@@ -47,20 +47,17 @@ Traits vary in rarity and there is a whole range across the entire collection of
 
 Rarity will become apparent once more spudz have been revealed but just to whet your appetite, the category 'spud type' can be one of 'spud' (representing male spudz), 'spudette' (representing female spudz), 'zombie' or 'alien'. There are only 95 zombies and 20 aliens in the entire collection!
 
-### How does the initial sale work?
-All spudz will come pre-minted and when they are first put up for sale on OpenSea, they will have a generic image with all traits hidden. This means that initially the collection works a bit like a lottery ticket in that you don't know what you're going to get. This prevents early birds from snapping up the more valuable spudz, giving everybody an equal and random chance of owning something really rare. Of course you can buy more spudz to increase your chances of getting a rare one but don't be greedy as there will be limits in place! Initially the maximum number of spudz that you'll be able to purchase will be 10 but this may change after a period of time. 
+### Why can't I see all spud traits on OpenSea?
+Each spud initially has a generic image with all traits hidden. The spud is only 'revealed' after its first sale (see below). This means that initially the collection works a bit like a lottery ticket in that you don't know what you're going to get. This prevents early birds from snapping up the more valuable spudz, giving everybody an equal and random chance of owning something really rare. Of course you can buy more spudz to increase your chances of getting a rare one but don't be greedy as there are limits in place! At the moment, the maximum number of unrevealed Spudz that can purchase is 10 (this may change after a period of time). 
 
-Spudz will range in price for the initial sale. They will start from as low as 0.0001 ETH and increment in steps of 0.00001 ETH for every spud going through the collection. This means if you're quick you'll be able to pick up a spud at a rock bottom price!
+Watch out for the upcoming Teasers which will give you a sneak peek of what a spud might look like when it's revealed...
 
 ### What's the reveal process?
 Once a spud has been sold, the image and traits of that spud will be revealed. There will be multiple 'reveal days' over a period of time where all spudz sold up until that date will be revealed. The number and timing of each reveal day will vary depending on how many sales have been made and how long it's been since the last reveal day. However they will be kept as regular as possible so people don't have to wait too long to find out what they own. Remember that only spudz that have been sold will be revealed and unsold spudz will still have a generic image. 
 
-Reveal days will be communicated via Twitter so be sure to follow me to find out when the next one is taking place!
-
-### What does the future hold?
-The spud machine is always busy harvesting new ideas and a limited edition collection is already planned for later on this year. So watch this space!
+Reveal days will be communicated via [Twitter](https://twitter.com/CryptoSpudMaker) so make sure you follow to find out when the next one is taking place!
 
 ### Awesome! Is there anything else I need to know?
 While the artwork was being designed, it became apparent that certain combinations of traits created spudz that had a passing resemblance to people and celebrities in real life. From actors and musicians to politicians and iconic fictional characters. So keep your eyes peeled and be sure to shout if you happen to spot a look-a-like... or a spud-u-like as I prefer to call them! 
 
-Maybe these spudz are the most desirable of all...
+Maybe these spudz are the most valuable of all...

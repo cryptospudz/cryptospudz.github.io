@@ -1,4 +1,6 @@
-## CryptoSpudz Blast Off!
-The CryptoSpudz initial sale has started! They are currently being listed on [OpenSea](https://opensea.io/collection/crypto-spudz) over a period of time so be sure to get in there quick to snap up a bargain! 
+## Teasers coming soon!
+To give you a sneak peek of what a spud might look like when it's revealed, check out the Teasers coming soon.
 
-Find out more about the [initial sale](/about/#how-does-the-initial-sale-work) and the [reveal process](/about/#whats-the-reveal-process).
+![Teaser](/assets/images/teaser.png){: .align-center}
+
+<p style='font-style: italic; text-align: right; font-size: 0.8em'>June 2023</p>
