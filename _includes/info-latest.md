@@ -1,5 +1,5 @@
-## Teasers coming soon!
-To give you a sneak peek of what a spud might look like when it's revealed, check out the Teasers coming soon.
+## The Teasers are here!
+Check out the latest [Teasers](/gallery/) and grab yourself a rare CryptoSpud before somebody else spots it!
 
 ![Teaser](/assets/images/teaser.png){: .align-center}
 

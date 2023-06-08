@@ -1,5 +1,6 @@
 <section>
   <h1>Categories</h1>
   <ul class="taxonomy__index">
+    <li><a href="/traits/spud-type/#trait-type"><strong>spud type</strong></a></li>
   </ul>
 </section>
