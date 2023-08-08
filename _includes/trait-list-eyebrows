@@ -1,0 +1,16 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Eyebrows</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/eyebrows/natural-raised-eyebrows/1/#trait"><strong>natural raised eyebrows</strong><span class="taxonomy__count">75</span></a></li>
+    <li><a href="/traits/eyebrows/straight-raised-eyebrows/1/#trait"><strong>straight raised eyebrows</strong><span class="taxonomy__count">71</span></a></li>
+    <li><a href="/traits/eyebrows/natural-eyebrows/1/#trait"><strong>natural eyebrows</strong><span class="taxonomy__count">68</span></a></li>
+    <li><a href="/traits/eyebrows/slightly-raised-eyebrow/1/#trait"><strong>slightly raised eyebrow</strong><span class="taxonomy__count">64</span></a></li>
+    <li><a href="/traits/eyebrows/full-eyebrows/1/#trait"><strong>full eyebrows</strong><span class="taxonomy__count">63</span></a></li>
+    <li><a href="/traits/eyebrows/straight-eyebrows/1/#trait"><strong>straight eyebrows</strong><span class="taxonomy__count">56</span></a></li>
+    <li><a href="/traits/eyebrows/raised-eyebrow/1/#trait"><strong>raised eyebrow</strong><span class="taxonomy__count">45</span></a></li>
+    <li><a href="/traits/eyebrows/angry-eyebrows/1/#trait"><strong>angry eyebrows</strong><span class="taxonomy__count">34</span></a></li>
+    <li><a href="/traits/eyebrows/small-eyebrows/1/#trait"><strong>small eyebrows</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/eyebrows/small-raised-eyebrows/1/#trait"><strong>small raised eyebrows</strong><span class="taxonomy__count">7</span></a></li>
+  </ul>
+</section>

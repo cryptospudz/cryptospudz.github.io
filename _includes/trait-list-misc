@@ -1,0 +1,8 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Misc</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/misc/spots/1/#trait"><strong>spots</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/misc/mole/1/#trait"><strong>mole</strong><span class="taxonomy__count">3</span></a></li>
+  </ul>
+</section>

@@ -1,0 +1,9 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Makeup</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/makeup/lipstick/1/#trait"><strong>lipstick</strong><span class="taxonomy__count">117</span></a></li>
+    <li><a href="/traits/makeup/eyeshadow/1/#trait"><strong>eyeshadow</strong><span class="taxonomy__count">45</span></a></li>
+    <li><a href="/traits/makeup/bindi/1/#trait"><strong>bindi</strong><span class="taxonomy__count">27</span></a></li>
+  </ul>
+</section>

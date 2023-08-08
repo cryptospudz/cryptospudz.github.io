@@ -2,6 +2,9 @@
 <section id="trait-type">
   <h2>Spud type</h2>
   <ul class="taxonomy__index">
-    <li><a href="/traits/spud-type/teaser/#trait"><strong>teaser</strong><span class="taxonomy__count">500</span></a></li>
+    <li><a href="/traits/spud-type/spud/1/#trait"><strong>spud</strong><span class="taxonomy__count">247</span></a></li>
+    <li><a href="/traits/spud-type/spudette/1/#trait"><strong>spudette</strong><span class="taxonomy__count">244</span></a></li>
+    <li><a href="/traits/spud-type/zombie/1/#trait"><strong>zombie</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/spud-type/alien/1/#trait"><strong>alien</strong><span class="taxonomy__count">2</span></a></li>
   </ul>
 </section>

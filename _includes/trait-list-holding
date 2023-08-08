@@ -1,0 +1,49 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Holding</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/holding/tea/1/#trait"><strong>tea</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/holding/burger/1/#trait"><strong>burger</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/holding/balloon/1/#trait"><strong>balloon</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/holding/bottle/1/#trait"><strong>bottle</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/holding/dumbbell/1/#trait"><strong>dumbbell</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/holding/beer/1/#trait"><strong>beer</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/holding/milkshake/1/#trait"><strong>milkshake</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/holding/white-wine/1/#trait"><strong>white wine</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/holding/ale/1/#trait"><strong>ale</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/champagne/1/#trait"><strong>champagne</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/cheeseburger/1/#trait"><strong>cheeseburger</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/coffee/1/#trait"><strong>coffee</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/heart/1/#trait"><strong>heart</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/martini/1/#trait"><strong>martini</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/mic/1/#trait"><strong>mic</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/rollie/1/#trait"><strong>rollie</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/holding/blue-flower/1/#trait"><strong>blue flower</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/holding/ice-cream/1/#trait"><strong>ice cream</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/holding/magic-wand/1/#trait"><strong>magic wand</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/holding/red-flower/1/#trait"><strong>red flower</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/holding/red-wine/1/#trait"><strong>red wine</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/holding/sword-and-shield/1/#trait"><strong>sword and shield</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/holding/cigarette/1/#trait"><strong>cigarette</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/goblet/1/#trait"><strong>goblet</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/kite/1/#trait"><strong>kite</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/laser-sword/1/#trait"><strong>laser sword</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/lil-cat/1/#trait"><strong>lil cat</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/lil-dog/1/#trait"><strong>lil dog</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/stout/1/#trait"><strong>stout</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/tequila/1/#trait"><strong>tequila</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/yoyo/1/#trait"><strong>yoyo</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/holding/cigar/1/#trait"><strong>cigar</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/fries/1/#trait"><strong>fries</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/ice-lolly/1/#trait"><strong>ice lolly</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/pipe/1/#trait"><strong>pipe</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/sake/1/#trait"><strong>sake</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/sword/1/#trait"><strong>sword</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/tiny-dino/1/#trait"><strong>tiny dino</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/vape/1/#trait"><strong>vape</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/vintage-mic/1/#trait"><strong>vintage mic</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/walking-stick/1/#trait"><strong>walking stick</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/weird-whale/1/#trait"><strong>weird whale</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/holding/whisky/1/#trait"><strong>whisky</strong><span class="taxonomy__count">1</span></a></li>
+  </ul>
+</section>

@@ -1,0 +1,28 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Eyewear</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/eyewear/small-tinted-shades/1/#trait"><strong>small tinted shades</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/eyewear/regular-shades/1/#trait"><strong>regular shades</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/eyewear/square-shades/1/#trait"><strong>square shades</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/eyewear/regular-tinted-shades/1/#trait"><strong>regular tinted shades</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/eyewear/slim-tinted-shades/1/#trait"><strong>slim tinted shades</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/eyewear/tinted-aviators/1/#trait"><strong>tinted aviators</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/eyewear/big-glasses/1/#trait"><strong>big glasses</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/eyewear/big-tinted-shades/1/#trait"><strong>big tinted shades</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/eyewear/rimless-tinted-shades/1/#trait"><strong>rimless tinted shades</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/eyewear/aviators/1/#trait"><strong>aviators</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/eyewear/eye-patch/1/#trait"><strong>eye patch</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/eyewear/morpheus-shades/1/#trait"><strong>morpheus shades</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/eyewear/round-shades/1/#trait"><strong>round shades</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/eyewear/round-tinted-shades/1/#trait"><strong>round tinted shades</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/eyewear/slim-shades/1/#trait"><strong>slim shades</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/eyewear/big-shades/1/#trait"><strong>big shades</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/eyewear/regular-glasses/1/#trait"><strong>regular glasses</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/eyewear/rimless-shades/1/#trait"><strong>rimless shades</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/eyewear/round-glasses/1/#trait"><strong>round glasses</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/eyewear/slim-glasses/1/#trait"><strong>slim glasses</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/eyewear/small-glasses/1/#trait"><strong>small glasses</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/eyewear/small-shades/1/#trait"><strong>small shades</strong><span class="taxonomy__count">2</span></a></li>
+  </ul>
+</section>

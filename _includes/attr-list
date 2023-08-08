@@ -1,6 +1,26 @@
 <section>
   <h1>Categories</h1>
   <ul class="taxonomy__index">
+    <li><a href="/traits/eye/#trait-type"><strong>eye</strong></a></li>
+    <li><a href="/traits/eye-colour/#trait-type"><strong>eye colour</strong></a></li>
+    <li><a href="/traits/eyebrows/#trait-type"><strong>eyebrows</strong></a></li>
+    <li><a href="/traits/eyewear/#trait-type"><strong>eyewear</strong></a></li>
+    <li><a href="/traits/facial-hair/#trait-type"><strong>facial hair</strong></a></li>
+    <li><a href="/traits/footwear/#trait-type"><strong>footwear</strong></a></li>
+    <li><a href="/traits/hair/#trait-type"><strong>hair</strong></a></li>
+    <li><a href="/traits/hair-colour/#trait-type"><strong>hair colour</strong></a></li>
+    <li><a href="/traits/headgear/#trait-type"><strong>headgear</strong></a></li>
+    <li><a href="/traits/holding/#trait-type"><strong>holding</strong></a></li>
+    <li><a href="/traits/jewellery/#trait-type"><strong>jewellery</strong></a></li>
+    <li><a href="/traits/makeup/#trait-type"><strong>makeup</strong></a></li>
+    <li><a href="/traits/makeup-bindi-colour/#trait-type"><strong>makeup bindi colour</strong></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/#trait-type"><strong>makeup eyeshadow colour</strong></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/#trait-type"><strong>makeup lipstick colour</strong></a></li>
+    <li><a href="/traits/misc/#trait-type"><strong>misc</strong></a></li>
+    <li><a href="/traits/mouth/#trait-type"><strong>mouth</strong></a></li>
+    <li><a href="/traits/nose/#trait-type"><strong>nose</strong></a></li>
+    <li><a href="/traits/riding/#trait-type"><strong>riding</strong></a></li>
     <li><a href="/traits/spud-type/#trait-type"><strong>spud type</strong></a></li>
+    <li><a href="/traits/trait-count/#trait-type"><strong>trait count</strong></a></li>
   </ul>
 </section>

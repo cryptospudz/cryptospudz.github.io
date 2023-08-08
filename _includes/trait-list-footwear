@@ -1,0 +1,10 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Footwear</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/footwear/boots/1/#trait"><strong>boots</strong><span class="taxonomy__count">172</span></a></li>
+    <li><a href="/traits/footwear/trainers/1/#trait"><strong>trainers</strong><span class="taxonomy__count">151</span></a></li>
+    <li><a href="/traits/footwear/shoes/1/#trait"><strong>shoes</strong><span class="taxonomy__count">148</span></a></li>
+    <li><a href="/traits/footwear/roller-skates/1/#trait"><strong>roller skates</strong><span class="taxonomy__count">29</span></a></li>
+  </ul>
+</section>

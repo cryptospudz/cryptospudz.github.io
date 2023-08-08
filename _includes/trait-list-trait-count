@@ -1,0 +1,19 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Trait count</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/trait-count/11-traits/1/#trait"><strong>11 traits</strong><span class="taxonomy__count">127</span></a></li>
+    <li><a href="/traits/trait-count/12-traits/1/#trait"><strong>12 traits</strong><span class="taxonomy__count">118</span></a></li>
+    <li><a href="/traits/trait-count/10-traits/1/#trait"><strong>10 traits</strong><span class="taxonomy__count">104</span></a></li>
+    <li><a href="/traits/trait-count/9-traits/1/#trait"><strong>9 traits</strong><span class="taxonomy__count">69</span></a></li>
+    <li><a href="/traits/trait-count/13-traits/1/#trait"><strong>13 traits</strong><span class="taxonomy__count">41</span></a></li>
+    <li><a href="/traits/trait-count/14-traits/1/#trait"><strong>14 traits</strong><span class="taxonomy__count">24</span></a></li>
+    <li><a href="/traits/trait-count/15-traits/1/#trait"><strong>15 traits</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/trait-count/8-traits/1/#trait"><strong>8 traits</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/trait-count/16-traits/1/#trait"><strong>16 traits</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/trait-count/6-traits/1/#trait"><strong>6 traits</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/trait-count/7-traits/1/#trait"><strong>7 traits</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/trait-count/17-traits/1/#trait"><strong>17 traits</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/trait-count/5-traits/1/#trait"><strong>5 traits</strong><span class="taxonomy__count">1</span></a></li>
+  </ul>
+</section>

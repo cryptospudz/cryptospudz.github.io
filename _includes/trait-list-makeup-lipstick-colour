@@ -1,0 +1,27 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Makeup lipstick colour</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/makeup-lipstick-colour/baby-pink-lipstick/1/#trait"><strong>baby pink lipstick</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/hot-red-lipstick/1/#trait"><strong>hot red lipstick</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/nude-pink-lipstick/1/#trait"><strong>nude pink lipstick</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/blush-pink-lipstick/1/#trait"><strong>blush pink lipstick</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/cherry-red-lipstick/1/#trait"><strong>cherry red lipstick</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/midnight-blue-lipstick/1/#trait"><strong>midnight blue lipstick</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/bright-purple-lipstick/1/#trait"><strong>bright purple lipstick</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/bright-red-lipstick/1/#trait"><strong>bright red lipstick</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/cherry-blossom-pink-lipstick/1/#trait"><strong>cherry blossom pink lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/cotton-candy-pink-lipstick/1/#trait"><strong>cotton candy pink lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/crimson-lipstick/1/#trait"><strong>crimson lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/hot-pink-lipstick/1/#trait"><strong>hot pink lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/knockout-pink-lipstick/1/#trait"><strong>knockout pink lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/neon-pink-lipstick/1/#trait"><strong>neon pink lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/neon-purple-lipstick/1/#trait"><strong>neon purple lipstick</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/bubblegum-pink-lipstick/1/#trait"><strong>bubblegum pink lipstick</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/dark-red-lipstick/1/#trait"><strong>dark red lipstick</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/midnight-purple-lipstick/1/#trait"><strong>midnight purple lipstick</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/ruby-red-lipstick/1/#trait"><strong>ruby red lipstick</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/passion-pink-lipstick/1/#trait"><strong>passion pink lipstick</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-lipstick-colour/plum-purple-lipstick/1/#trait"><strong>plum purple lipstick</strong><span class="taxonomy__count">2</span></a></li>
+  </ul>
+</section>

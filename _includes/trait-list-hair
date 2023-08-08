@@ -1,0 +1,50 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Hair</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/hair/no-hair/1/#trait"><strong>no hair</strong><span class="taxonomy__count">67</span></a></li>
+    <li><a href="/traits/hair/medium-curled-hairstyle/1/#trait"><strong>medium curled hairstyle</strong><span class="taxonomy__count">28</span></a></li>
+    <li><a href="/traits/hair/crew-cut/1/#trait"><strong>crew cut</strong><span class="taxonomy__count">23</span></a></li>
+    <li><a href="/traits/hair/side-fringe-hairstyle/1/#trait"><strong>side fringe hairstyle</strong><span class="taxonomy__count">22</span></a></li>
+    <li><a href="/traits/hair/receding-hair/1/#trait"><strong>receding hair</strong><span class="taxonomy__count">21</span></a></li>
+    <li><a href="/traits/hair/shaved-hair/1/#trait"><strong>shaved hair</strong><span class="taxonomy__count">20</span></a></li>
+    <li><a href="/traits/hair/mop-top-hairstyle/1/#trait"><strong>mop top hairstyle</strong><span class="taxonomy__count">15</span></a></li>
+    <li><a href="/traits/hair/long-bob-fringe-hairstyle/1/#trait"><strong>long bob fringe hairstyle</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/hair/long-length-fringe-hairstyle/1/#trait"><strong>long length fringe hairstyle</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/hair/short-loc-hairstyle/1/#trait"><strong>short loc hairstyle</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/hair/side-hairstyle/1/#trait"><strong>side hairstyle</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/hair/wild-hairstyle/1/#trait"><strong>wild hairstyle</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/hair/afro-hairstyle/1/#trait"><strong>afro hairstyle</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/hair/long-bob-hairstyle/1/#trait"><strong>long bob hairstyle</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/hair/quiff-hairstyle/1/#trait"><strong>quiff hairstyle</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/hair/hard-part-hairstyle/1/#trait"><strong>hard part hairstyle</strong><span class="taxonomy__count">12</span></a></li>
+    <li><a href="/traits/hair/hi-top-hairstyle/1/#trait"><strong>hi top hairstyle</strong><span class="taxonomy__count">12</span></a></li>
+    <li><a href="/traits/hair/teddy-boy-hairstyle/1/#trait"><strong>teddy boy hairstyle</strong><span class="taxonomy__count">12</span></a></li>
+    <li><a href="/traits/hair/bob-hairstyle/1/#trait"><strong>bob hairstyle</strong><span class="taxonomy__count">11</span></a></li>
+    <li><a href="/traits/hair/flat-top-hairstyle/1/#trait"><strong>flat top hairstyle</strong><span class="taxonomy__count">11</span></a></li>
+    <li><a href="/traits/hair/long-curled-hairstyle/1/#trait"><strong>long curled hairstyle</strong><span class="taxonomy__count">10</span></a></li>
+    <li><a href="/traits/hair/medium-length-fringe-hairstyle/1/#trait"><strong>medium length fringe hairstyle</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/hair/short-bob-fringe-hairstyle/1/#trait"><strong>short bob fringe hairstyle</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/hair/spiky-hairstyle/1/#trait"><strong>spiky hairstyle</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/hair/vyvyan-hairstyle/1/#trait"><strong>vyvyan hairstyle</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/hair/short-bob-hairstyle/1/#trait"><strong>short bob hairstyle</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/hair/balding-hair/1/#trait"><strong>balding hair</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/hair/bob-fringe-hairstyle/1/#trait"><strong>bob fringe hairstyle</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/hair/bun-hairstyle/1/#trait"><strong>bun hairstyle</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/hair/duke-hairstyle/1/#trait"><strong>duke hairstyle</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/hair/long-length-hairstyle/1/#trait"><strong>long length hairstyle</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/hair/side-part-hairstyle/1/#trait"><strong>side part hairstyle</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/hair/bouffant-hairstyle/1/#trait"><strong>bouffant hairstyle</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/hair/caesar-hairstyle/1/#trait"><strong>caesar hairstyle</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/hair/medium-length-hairstyle/1/#trait"><strong>medium length hairstyle</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/hair/mod-hairstyle/1/#trait"><strong>mod hairstyle</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/hair/regular-hairstyle/1/#trait"><strong>regular hairstyle</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/hair/short-curled-hairstyle/1/#trait"><strong>short curled hairstyle</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/hair/gumby-hairstyle/1/#trait"><strong>gumby hairstyle</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/hair/ponytail-hairstyle/1/#trait"><strong>ponytail hairstyle</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/hair/lustrous-hair/1/#trait"><strong>lustrous hair</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/hair/mohican-hairstyle/1/#trait"><strong>mohican hairstyle</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/hair/medium-thick-hairstyle/1/#trait"><strong>medium thick hairstyle</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/hair/short-thick-hairstyle/1/#trait"><strong>short thick hairstyle</strong><span class="taxonomy__count">2</span></a></li>
+  </ul>
+</section>

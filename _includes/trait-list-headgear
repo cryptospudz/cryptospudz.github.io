@@ -1,0 +1,36 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Headgear</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/headgear/police-flat-cap/1/#trait"><strong>police flat cap</strong><span class="taxonomy__count">11</span></a></li>
+    <li><a href="/traits/headgear/cap/1/#trait"><strong>cap</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/headgear/cowboy-hat/1/#trait"><strong>cowboy hat</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/headgear/sun-hat/1/#trait"><strong>sun hat</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/headgear/trilby/1/#trait"><strong>trilby</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/headgear/bandana/1/#trait"><strong>bandana</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/headgear/bowler-hat/1/#trait"><strong>bowler hat</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/headgear/fez/1/#trait"><strong>fez</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/headgear/viking-helmet/1/#trait"><strong>viking helmet</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/headgear/beret/1/#trait"><strong>beret</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/headgear/military-beret/1/#trait"><strong>military beret</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/headgear/tricorn-hat/1/#trait"><strong>tricorn hat</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/headgear/bucket-hat/1/#trait"><strong>bucket hat</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/firefighter-helmet/1/#trait"><strong>firefighter helmet</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/pirate-hat/1/#trait"><strong>pirate hat</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/police-bowler-hat/1/#trait"><strong>police bowler hat</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/police-helmet/1/#trait"><strong>police helmet</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/top-hat/1/#trait"><strong>top hat</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/turban/1/#trait"><strong>turban</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/headgear/flat-cap/1/#trait"><strong>flat cap</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/headgear/keffiyeh/1/#trait"><strong>keffiyeh</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/headgear/nurse-hat/1/#trait"><strong>nurse hat</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/headgear/skull-cap/1/#trait"><strong>skull cap</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/headgear/witch-hat/1/#trait"><strong>witch hat</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/headgear/wizard-hat/1/#trait"><strong>wizard hat</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/headgear/bearskin/1/#trait"><strong>bearskin</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/headgear/crown/1/#trait"><strong>crown</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/headgear/hijab/1/#trait"><strong>hijab</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/headgear/kippah/1/#trait"><strong>kippah</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/headgear/kufi/1/#trait"><strong>kufi</strong><span class="taxonomy__count">1</span></a></li>
+  </ul>
+</section>

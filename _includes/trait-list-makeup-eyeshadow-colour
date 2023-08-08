@@ -1,0 +1,18 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Makeup eyeshadow colour</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/makeup-eyeshadow-colour/nude-pink-eyeshadow/1/#trait"><strong>nude pink eyeshadow</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/pacific-blue-eyeshadow/1/#trait"><strong>pacific blue eyeshadow</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/carolina-blue-eyeshadow/1/#trait"><strong>carolina blue eyeshadow</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/electric-blue-eyeshadow/1/#trait"><strong>electric blue eyeshadow</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/aqua-blue-eyeshadow/1/#trait"><strong>aqua blue eyeshadow</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/baby-pink-eyeshadow/1/#trait"><strong>baby pink eyeshadow</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/neon-purple-eyeshadow/1/#trait"><strong>neon purple eyeshadow</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/pastel-purple-eyeshadow/1/#trait"><strong>pastel purple eyeshadow</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/princess-pink-eyeshadow/1/#trait"><strong>princess pink eyeshadow</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/blush-pink-eyeshadow/1/#trait"><strong>blush pink eyeshadow</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/electric-purple-eyeshadow/1/#trait"><strong>electric purple eyeshadow</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-eyeshadow-colour/diva-blue-eyeshadow/1/#trait"><strong>diva blue eyeshadow</strong><span class="taxonomy__count">1</span></a></li>
+  </ul>
+</section>

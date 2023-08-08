@@ -1,0 +1,31 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Facial hair</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/facial-hair/stubble/1/#trait"><strong>stubble</strong><span class="taxonomy__count">21</span></a></li>
+    <li><a href="/traits/facial-hair/walrus-moustache/1/#trait"><strong>walrus moustache</strong><span class="taxonomy__count">17</span></a></li>
+    <li><a href="/traits/facial-hair/dali-moustache/1/#trait"><strong>dali moustache</strong><span class="taxonomy__count">16</span></a></li>
+    <li><a href="/traits/facial-hair/cowboy-moustache/1/#trait"><strong>cowboy moustache</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/facial-hair/chevron-moustache/1/#trait"><strong>chevron moustache</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/facial-hair/horseshoe-moustache/1/#trait"><strong>horseshoe moustache</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/facial-hair/pencil-moustache/1/#trait"><strong>pencil moustache</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/facial-hair/handlebar-moustache/1/#trait"><strong>handlebar moustache</strong><span class="taxonomy__count">11</span></a></li>
+    <li><a href="/traits/facial-hair/imperial-moustache/1/#trait"><strong>imperial moustache</strong><span class="taxonomy__count">11</span></a></li>
+    <li><a href="/traits/facial-hair/soul-patch/1/#trait"><strong>soul patch</strong><span class="taxonomy__count">11</span></a></li>
+    <li><a href="/traits/facial-hair/chin-puff/1/#trait"><strong>chin puff</strong><span class="taxonomy__count">10</span></a></li>
+    <li><a href="/traits/facial-hair/english-moustache/1/#trait"><strong>english moustache</strong><span class="taxonomy__count">10</span></a></li>
+    <li><a href="/traits/facial-hair/full-goatee/1/#trait"><strong>full goatee</strong><span class="taxonomy__count">10</span></a></li>
+    <li><a href="/traits/facial-hair/old-dutch-beard/1/#trait"><strong>old dutch beard</strong><span class="taxonomy__count">10</span></a></li>
+    <li><a href="/traits/facial-hair/lampshade-moustache/1/#trait"><strong>lampshade moustache</strong><span class="taxonomy__count">9</span></a></li>
+    <li><a href="/traits/facial-hair/anchor-beard/1/#trait"><strong>anchor beard</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/facial-hair/ducktail-beard/1/#trait"><strong>ducktail beard</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/facial-hair/mutton-chops/1/#trait"><strong>mutton chops</strong><span class="taxonomy__count">8</span></a></li>
+    <li><a href="/traits/facial-hair/egyptian-goatee/1/#trait"><strong>egyptian goatee</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/facial-hair/goatee/1/#trait"><strong>goatee</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/facial-hair/short-beard/1/#trait"><strong>short beard</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/facial-hair/full-beard/1/#trait"><strong>full beard</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/facial-hair/low-beard/1/#trait"><strong>low beard</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/facial-hair/high-beard/1/#trait"><strong>high beard</strong><span class="taxonomy__count">5</span></a></li>
+    <li><a href="/traits/facial-hair/chinstrap-beard/1/#trait"><strong>chinstrap beard</strong><span class="taxonomy__count">4</span></a></li>
+  </ul>
+</section>

@@ -2,12 +2,12 @@
 
 To run locally -
 ```commandline
-bundle exec jekyll serve
+bundle exec jekyll serve --incremental
 ```
 
 To run with local wifi access -
 ```commandline
-bundle exec jekyll serve --host 0.0.0.0
+bundle exec jekyll serve --incremental --host 0.0.0.0
 ```
 
 And browse the local ip, eg -

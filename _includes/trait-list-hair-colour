@@ -1,0 +1,29 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Hair colour</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/hair-colour/sandy-blonde-hair/1/#trait"><strong>sandy blonde hair</strong><span class="taxonomy__count">32</span></a></li>
+    <li><a href="/traits/hair-colour/white-hair/1/#trait"><strong>white hair</strong><span class="taxonomy__count">28</span></a></li>
+    <li><a href="/traits/hair-colour/burgundy-hair/1/#trait"><strong>burgundy hair</strong><span class="taxonomy__count">27</span></a></li>
+    <li><a href="/traits/hair-colour/copper-hair/1/#trait"><strong>copper hair</strong><span class="taxonomy__count">27</span></a></li>
+    <li><a href="/traits/hair-colour/jet-black-hair/1/#trait"><strong>jet black hair</strong><span class="taxonomy__count">26</span></a></li>
+    <li><a href="/traits/hair-colour/silver-grey-hair/1/#trait"><strong>silver grey hair</strong><span class="taxonomy__count">26</span></a></li>
+    <li><a href="/traits/hair-colour/midnight-black-hair/1/#trait"><strong>midnight black hair</strong><span class="taxonomy__count">24</span></a></li>
+    <li><a href="/traits/hair-colour/walnut-brown-hair/1/#trait"><strong>walnut brown hair</strong><span class="taxonomy__count">24</span></a></li>
+    <li><a href="/traits/hair-colour/auburn-hair/1/#trait"><strong>auburn hair</strong><span class="taxonomy__count">23</span></a></li>
+    <li><a href="/traits/hair-colour/chestnut-hair/1/#trait"><strong>chestnut hair</strong><span class="taxonomy__count">22</span></a></li>
+    <li><a href="/traits/hair-colour/strawberry-blonde-hair/1/#trait"><strong>strawberry blonde hair</strong><span class="taxonomy__count">22</span></a></li>
+    <li><a href="/traits/hair-colour/golden-brown-hair/1/#trait"><strong>golden brown hair</strong><span class="taxonomy__count">21</span></a></li>
+    <li><a href="/traits/hair-colour/blonde-hair/1/#trait"><strong>blonde hair</strong><span class="taxonomy__count">20</span></a></li>
+    <li><a href="/traits/hair-colour/light-blonde-hair/1/#trait"><strong>light blonde hair</strong><span class="taxonomy__count">20</span></a></li>
+    <li><a href="/traits/hair-colour/mahogany-brown-hair/1/#trait"><strong>mahogany brown hair</strong><span class="taxonomy__count">20</span></a></li>
+    <li><a href="/traits/hair-colour/bleached-blonde-hair/1/#trait"><strong>bleached blonde hair</strong><span class="taxonomy__count">19</span></a></li>
+    <li><a href="/traits/hair-colour/brunette-hair/1/#trait"><strong>brunette hair</strong><span class="taxonomy__count">19</span></a></li>
+    <li><a href="/traits/hair-colour/chocolate-brown-hair/1/#trait"><strong>chocolate brown hair</strong><span class="taxonomy__count">19</span></a></li>
+    <li><a href="/traits/hair-colour/caramel-brown-hair/1/#trait"><strong>caramel brown hair</strong><span class="taxonomy__count">18</span></a></li>
+    <li><a href="/traits/hair-colour/light-grey-hair/1/#trait"><strong>light grey hair</strong><span class="taxonomy__count">17</span></a></li>
+    <li><a href="/traits/hair-colour/medium-grey-hair/1/#trait"><strong>medium grey hair</strong><span class="taxonomy__count">16</span></a></li>
+    <li><a href="/traits/hair-colour/dark-grey-hair/1/#trait"><strong>dark grey hair</strong><span class="taxonomy__count">15</span></a></li>
+    <li><a href="/traits/hair-colour/ash-blonde-hair/1/#trait"><strong>ash blonde hair</strong><span class="taxonomy__count">13</span></a></li>
+  </ul>
+</section>

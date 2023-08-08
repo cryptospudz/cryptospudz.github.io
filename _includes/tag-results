@@ -4,8 +4,14 @@
   <h2 class="archive__subtitle"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ page.tag }} {{ tag[0] }}</h2>
   {% endif %}
   <div class="entries-{{ entries_layout }}">
+  {% assign counter = 0 %}
   {% for post in site.tags[page.tag] %}
-    {% include archive-single.html type=entries_layout %}
+    {% assign counter = counter | plus: 1 %}
+    {% if (counter >= page.min) and (counter <= page.max) %}
+      {% include archive-single.html type=entries_layout %}
+    {% elsif counter > page.max %}
+      {% break %}
+    {% endif %}
   {% endfor %}
   </div>
 </section>

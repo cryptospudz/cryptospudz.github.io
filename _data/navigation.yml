@@ -1,9 +1,9 @@
 main:
 #  - title: "Spudz"
 #    url: /spudz/
-#  - title: "Teasers"
-#    url: /gallery
-#  - title: "Traits"
-#    url: /traits/
+  - title: "GALLERY"
+    url: /gallery
+  - title: "TRAITS"
+    url: /traits/
   - title: "ABOUT"
     url: /about/

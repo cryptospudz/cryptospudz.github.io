@@ -1,0 +1,13 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Jewellery</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/jewellery/friendship-bracelet/1/#trait"><strong>friendship bracelet</strong><span class="taxonomy__count">14</span></a></li>
+    <li><a href="/traits/jewellery/silver-bracelet/1/#trait"><strong>silver bracelet</strong><span class="taxonomy__count">7</span></a></li>
+    <li><a href="/traits/jewellery/emerald-ring/1/#trait"><strong>emerald ring</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/jewellery/gold-ring/1/#trait"><strong>gold ring</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/jewellery/ruby-ring/1/#trait"><strong>ruby ring</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/jewellery/sapphire-ring/1/#trait"><strong>sapphire ring</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/jewellery/silver-ring/1/#trait"><strong>silver ring</strong><span class="taxonomy__count">1</span></a></li>
+  </ul>
+</section>

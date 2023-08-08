@@ -1,0 +1,10 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Nose</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/nose/full-nose/1/#trait"><strong>full nose</strong><span class="taxonomy__count">167</span></a></li>
+    <li><a href="/traits/nose/button-nose/1/#trait"><strong>button nose</strong><span class="taxonomy__count">163</span></a></li>
+    <li><a href="/traits/nose/thin-nose/1/#trait"><strong>thin nose</strong><span class="taxonomy__count">161</span></a></li>
+    <li><a href="/traits/nose/nostrils/1/#trait"><strong>nostrils</strong><span class="taxonomy__count">6</span></a></li>
+  </ul>
+</section>

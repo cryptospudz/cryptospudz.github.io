@@ -1,0 +1,16 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Eye colour</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/eye-colour/black-eyes/1/#trait"><strong>black eyes</strong><span class="taxonomy__count">82</span></a></li>
+    <li><a href="/traits/eye-colour/blue-eyes/1/#trait"><strong>blue eyes</strong><span class="taxonomy__count">80</span></a></li>
+    <li><a href="/traits/eye-colour/brown-eyes/1/#trait"><strong>brown eyes</strong><span class="taxonomy__count">76</span></a></li>
+    <li><a href="/traits/eye-colour/dark-blue-eyes/1/#trait"><strong>dark blue eyes</strong><span class="taxonomy__count">62</span></a></li>
+    <li><a href="/traits/eye-colour/light-brown-eyes/1/#trait"><strong>light brown eyes</strong><span class="taxonomy__count">61</span></a></li>
+    <li><a href="/traits/eye-colour/dark-brown-eyes/1/#trait"><strong>dark brown eyes</strong><span class="taxonomy__count">54</span></a></li>
+    <li><a href="/traits/eye-colour/light-blue-eyes/1/#trait"><strong>light blue eyes</strong><span class="taxonomy__count">41</span></a></li>
+    <li><a href="/traits/eye-colour/hazel-eyes/1/#trait"><strong>hazel eyes</strong><span class="taxonomy__count">21</span></a></li>
+    <li><a href="/traits/eye-colour/green-eyes/1/#trait"><strong>green eyes</strong><span class="taxonomy__count">16</span></a></li>
+    <li><a href="/traits/eye-colour/grey-eyes/1/#trait"><strong>grey eyes</strong><span class="taxonomy__count">2</span></a></li>
+  </ul>
+</section>

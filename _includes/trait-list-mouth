@@ -1,0 +1,17 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Mouth</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/mouth/neutral-lips/1/#trait"><strong>neutral lips</strong><span class="taxonomy__count">154</span></a></li>
+    <li><a href="/traits/mouth/lopsided-smile/1/#trait"><strong>lopsided smile</strong><span class="taxonomy__count">76</span></a></li>
+    <li><a href="/traits/mouth/open-mouth/1/#trait"><strong>open mouth</strong><span class="taxonomy__count">76</span></a></li>
+    <li><a href="/traits/mouth/thin-smiling-lips/1/#trait"><strong>thin smiling lips</strong><span class="taxonomy__count">73</span></a></li>
+    <li><a href="/traits/mouth/smiling-lips/1/#trait"><strong>smiling lips</strong><span class="taxonomy__count">65</span></a></li>
+    <li><a href="/traits/mouth/pouting-lips/1/#trait"><strong>pouting lips</strong><span class="taxonomy__count">19</span></a></li>
+    <li><a href="/traits/mouth/open-mouth-smile/1/#trait"><strong>open mouth smile</strong><span class="taxonomy__count">15</span></a></li>
+    <li><a href="/traits/mouth/big-smiling-lips/1/#trait"><strong>big smiling lips</strong><span class="taxonomy__count">13</span></a></li>
+    <li><a href="/traits/mouth/drooling-blood-mouth/1/#trait"><strong>drooling blood mouth</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/mouth/screaming-mouth/1/#trait"><strong>screaming mouth</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/mouth/slit-mouth/1/#trait"><strong>slit mouth</strong><span class="taxonomy__count">2</span></a></li>
+  </ul>
+</section>

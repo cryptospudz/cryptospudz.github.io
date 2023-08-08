@@ -1,0 +1,20 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Makeup bindi colour</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/makeup-bindi-colour/neon-pink-bindi/1/#trait"><strong>neon pink bindi</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/baby-pink-bindi/1/#trait"><strong>baby pink bindi</strong><span class="taxonomy__count">3</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/bright-green-bindi/1/#trait"><strong>bright green bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/crimson-bindi/1/#trait"><strong>crimson bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/golden-yellow-bindi/1/#trait"><strong>golden yellow bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/midnight-green-bindi/1/#trait"><strong>midnight green bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/ruby-red-bindi/1/#trait"><strong>ruby red bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/saffron-yellow-bindi/1/#trait"><strong>saffron yellow bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/spearmint-green-bindi/1/#trait"><strong>spearmint green bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/turmeric-bindi/1/#trait"><strong>turmeric bindi</strong><span class="taxonomy__count">2</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/bright-blue-bindi/1/#trait"><strong>bright blue bindi</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/bright-yellow-bindi/1/#trait"><strong>bright yellow bindi</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/midnight-purple-bindi/1/#trait"><strong>midnight purple bindi</strong><span class="taxonomy__count">1</span></a></li>
+    <li><a href="/traits/makeup-bindi-colour/teal-blue-bindi/1/#trait"><strong>teal blue bindi</strong><span class="taxonomy__count">1</span></a></li>
+  </ul>
+</section>

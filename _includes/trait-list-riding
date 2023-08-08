@@ -1,0 +1,11 @@
+{% include_cached attr-list %}
+<section id="trait-type">
+  <h2>Riding</h2>
+  <ul class="taxonomy__index">
+    <li><a href="/traits/riding/snowboard/1/#trait"><strong>snowboard</strong><span class="taxonomy__count">19</span></a></li>
+    <li><a href="/traits/riding/skateboard/1/#trait"><strong>skateboard</strong><span class="taxonomy__count">10</span></a></li>
+    <li><a href="/traits/riding/hoverboard/1/#trait"><strong>hoverboard</strong><span class="taxonomy__count">6</span></a></li>
+    <li><a href="/traits/riding/scooter/1/#trait"><strong>scooter</strong><span class="taxonomy__count">4</span></a></li>
+    <li><a href="/traits/riding/magic-carpet/1/#trait"><strong>magic carpet</strong><span class="taxonomy__count">3</span></a></li>
+  </ul>
+</section>
