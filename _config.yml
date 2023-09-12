@@ -18,7 +18,7 @@ email:
 description: CryptoSpudz - NFT potato collectables
 twitter_username: CryptoSpudMaker
 github_username: cryptospudz
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 teaser: /assets/images/teaser.jpg
 

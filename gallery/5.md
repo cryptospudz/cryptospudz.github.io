@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Spudz"
+title: "Gallery"
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
